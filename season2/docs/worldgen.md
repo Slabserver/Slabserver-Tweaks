@@ -9,11 +9,10 @@ Chunks generated before 1.13 used a custom preset to improve the natural terrain
 * Sea level raised by one block for less dry rivers
 
 ## Underground
-* Larger ore veins, with lower frequency for adjustment
-* Larger pockets of dirt, gravel, andesite, diorite, and granite
-* Pockets do not generate above sea level or below y=15, leaving only stone and ores
+* Larger pockets of dirt, andesite, diorite, and granite
+* Pockets do not generate above sea level or below y=21, leaving only stone, gravel, and ores
 * Andesite, diorite, and granite generate in their own layers
-  * Andesite generates near y=50
-  * Diorite generates near y=35
-  * Granite generates near y=20
-  
+  * Granite generates betwen layers 21-30
+  * Diorite generates between layers 32-43
+  * Andesite generates between layers 43-66
+  * Dirt generates between layers 21-61
